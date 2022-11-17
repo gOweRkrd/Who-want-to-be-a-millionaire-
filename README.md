@@ -13,9 +13,9 @@
 
 Демнострация работы экранов и работы приложения:
 
-<img width="219" alt="1" src="https://user-images.githubusercontent.com/110721351/202409291-9edf65fe-c7e4-4064-873e-af7b1c8b9956.png"> <img width="220" alt="2" src="https://user-images.githubusercontent.com/110721351/202409325-69f4d522-ef75-4e06-8ac2-7ed03a8d3b90.png">
-<img width="220" alt="4" src="https://user-images.githubusercontent.com/110721351/202409453-5a56a662-a837-4490-8944-4d13f0a79916.png">
-<img width="220" alt="5" src="https://user-images.githubusercontent.com/110721351/202409785-11a43d94-6615-4726-8196-ec132632f94d.png">
+<img width="229" alt="1" src="https://user-images.githubusercontent.com/110721351/202409291-9edf65fe-c7e4-4064-873e-af7b1c8b9956.png"> <img width="230" alt="2" src="https://user-images.githubusercontent.com/110721351/202409325-69f4d522-ef75-4e06-8ac2-7ed03a8d3b90.png">
+<img width="230" alt="4" src="https://user-images.githubusercontent.com/110721351/202409453-5a56a662-a837-4490-8944-4d13f0a79916.png">
+<img width="230" alt="5" src="https://user-images.githubusercontent.com/110721351/202409785-11a43d94-6615-4726-8196-ec132632f94d.png">
 
 
 
