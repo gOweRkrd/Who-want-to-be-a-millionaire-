@@ -17,6 +17,8 @@
 <img width="230" alt="4" src="https://user-images.githubusercontent.com/110721351/202409453-5a56a662-a837-4490-8944-4d13f0a79916.png">
 <img width="230" alt="5" src="https://user-images.githubusercontent.com/110721351/202409785-11a43d94-6615-4726-8196-ec132632f94d.png">
 
+В создании приложения участвовали 5 начинающих разработчиков с использованием таких инструментов как: Slack,Fork,Trello.
+
 
 
 
