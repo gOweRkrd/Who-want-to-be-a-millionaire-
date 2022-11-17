@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Что растёт в огороде?</string>
+		<key>answeres</key>
+		<array>
+			<string>Лук</string>
+			<string>Пистолет</string>
+			<string>Пулемет</string>
+			<string>Ракета</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Лук</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Как называют микроавтобусы, совершающие поездки по определённым маршрутам?</string>
+		<key>answeres</key>
+		<array>
+			<string>Рейсовка</string>
+			<string>Путевка</string>
+			<string>Курсовка</string>
+			<string>Маршрутка</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Маршрутка</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>О чём писал Грибоедов, отмечая, что он «нам сладок и приятен»?</string>
+		<key>answeres</key>
+		<array>
+			<string>Дым Отечества</string>
+			<string>Дух купечества</string>
+			<string>Дар пророчества</string>
+			<string>Пыл девичества</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Дым Отечества</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какого персонажа нет в известной считалке «На золотом крыльце сидели»?</string>
+		<key>answeres</key>
+		<array>
+			<string>Сапожника</string>
+			<string>Кузнеца</string>
+			<string>Короля</string>
+			<string>Портного</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Кузнеца</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какой специалист занимается изучением неопознанных летающих объектов?</string>
+		<key>answeres</key>
+		<array>
+			<string>Кинолог</string>
+			<string>Уфолог</string>
+			<string>Сексопатолог</string>
+			<string>Психиатр</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Уфолог</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Как называется разновидность воды, в которой атом водорода замещён его изотопом дейтерием?</string>
+		<key>answeres</key>
+		<array>
+			<string>Лёгкая</string>
+			<string>Средняя</string>
+			<string>Тяжелая</string>
+			<string>Невесомая</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Тяжелая</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Что такое десница?</string>
+		<key>answeres</key>
+		<array>
+			<string>Бровь</string>
+			<string>Глаз</string>
+			<string>Шея</string>
+			<string>Рука</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Рука</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>В какое море впадает река Урал?</string>
+		<key>answeres</key>
+		<array>
+			<string>Азовское</string>
+			<string>Черное</string>
+			<string>Средиземное</string>
+			<string>Каспийское</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Каспийское</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>На что кладут руку члены английского общества лысых во время присяги?</string>
+		<key>answeres</key>
+		<array>
+			<string>Баскетбольный мяч</string>
+			<string>Бильярдный шар</string>
+			<string>Апельсин</string>
+			<string>Кокосовый орех</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Бильярдный шар</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Как называется каменный монолит, на котором установлен памятник Петру I в Санкт-Петербурге?</string>
+		<key>answeres</key>
+		<array>
+			<string>Дом-камень</string>
+			<string>Гром-камень</string>
+			<string>Гора-камень</string>
+			<string>Разрыв-камень</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Гром-камень</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Как Пётр Ильич Чайковский назвал свою серенаду для скрипки с оркестром си-бемоль минор?</string>
+		<key>answeres</key>
+		<array>
+			<string>Флегматическая</string>
+			<string>Меланхолическая</string>
+			<string>Холерическая</string>
+			<string>Сангвиническая</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Меланхолическая</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какого ордена не было у первого советского космонавта Юрия Гагарина?</string>
+		<key>answeres</key>
+		<array>
+			<string>«Ожерелье Нила» (Египет)</string>
+			<string>«Крест Грюнвальда» (Польша)</string>
+			<string>«Плайя Хирон» (Куба)</string>
+			<string>«Орден двойного дракона» (Китай)</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>«Орден двойного дракона» (Китай)</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какое животное имеет второе название — кугуар?</string>
+		<key>answeres</key>
+		<array>
+			<string>Оцелот</string>
+			<string>Леопард</string>
+			<string>Пума</string>
+			<string>Рысь</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Пума</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Что в России 19 века делали в дортуаре?</string>
+		<key>answeres</key>
+		<array>
+			<string>Ели</string>
+			<string>Спали</string>
+			<string>Ездили верхом</string>
+			<string>Купались</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Спали</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какой химический элемент назван в честь злого подземного гнома?&quot;</string>
+		<key>answeres</key>
+		<array>
+			<string>Гафний</string>
+			<string>Кобальт</string>
+			<string>Бериллий</string>
+			<string>Теллур</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Кобальт</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Кто из этих философов в 1864 году написал музыку на стихи А.С. Пушкина «Заклинание» и «Зимний вечер»?</string>
+		<key>answeres</key>
+		<array>
+			<string>Юнг</string>
+			<string>Гегель</string>
+			<string>Ницше</string>
+			<string>Шопенгауэр</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Ницше</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Сколько раз в сутки подзаводят куранты Спасской башни Кремля?</string>
+		<key>answeres</key>
+		<array>
+			<string>Один</string>
+			<string>Два</string>
+			<string>Три</string>
+			<string>Четыре</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Два</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Кто первым получил Нобелевскую премию по литературе?</string>
+		<key>answeres</key>
+		<array>
+			<string>Романист</string>
+			<string>Драматург</string>
+			<string>Поэт</string>
+			<string>Эссеист</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Поэт</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>С какой буквы начинаются слова, опубликованные в 16-м томе последнего издания Большой советской энциклопедии?</string>
+		<key>answeres</key>
+		<array>
+			<string>М</string>
+			<string>Н</string>
+			<string>О</string>
+			<string>П</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>М</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>В какой из этих столиц бывших союзных республик раньше появилось метро?</string>
+		<key>answeres</key>
+		<array>
+			<string>Тбилиси</string>
+			<string>Ереван</string>
+			<string>Баку</string>
+			<string>Минск</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Тбилиси</string>
+		<key>questionLevel</key>
+		<string>hard</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Реки с каким названием нет на территории России?</string>
+		<key>answeres</key>
+		<array>
+			<string>Шея</string>
+			<string>Уста</string>
+			<string>Спина</string>
+			<string>Палец</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Спина</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какое имя не принимал ни один папа римский?</string>
+		<key>answeres</key>
+		<array>
+			<string>Валентин</string>
+			<string>Евгений</string>
+			<string>Георгий</string>
+			<string>Виктор</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Георгий</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какое имя было самым распространенным у шведских королей?</string>
+		<key>answeres</key>
+		<array>
+			<string>Карл</string>
+			<string>Густав</string>
+			<string>Фредрик</string>
+			<string>Оскар</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Карл</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Оттенком какого цвета является «ниагара»?</string>
+		<key>answeres</key>
+		<array>
+			<string>Зеленого</string>
+			<string>Красного</string>
+			<string>Синего</string>
+			<string>Желтого</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Синего</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Какого романа нет у Артура Хейли?</string>
+		<key>answeres</key>
+		<array>
+			<string>«Аэропорт»</string>
+			<string>«Отель»</string>
+			<string>«Больница»</string>
+			<string>«Колеса»</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>«Больница»</string>
+		<key>questionLevel</key>
+		<string>medium</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Что, если принимать во внимание расхожую фразу, измеряют в фунтах?</string>
+		<key>answeres</key>
+		<array>
+			<string>Лыко</string>
+			<string>Лихо</string>
+			<string>Мыло</string>
+			<string>Шило</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Лихо</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Чему не учат в школе в известной песне?</string>
+		<key>answeres</key>
+		<array>
+			<string>Вычитать и умножать</string>
+			<string>Буквы разные писать</string>
+			<string>Малышей не обижать</string>
+			<string>Нагоняи получать</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Нагоняи получать</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Что, согласно поговорке, происходит, когда идет караван?</string>
+		<key>answeres</key>
+		<array>
+			<string>Собака лает</string>
+			<string>Кошка мурлычет</string>
+			<string>Ветер воет</string>
+			<string>Море волнуется</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Собака лает</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Что обычно готовят способом пашот?</string>
+		<key>answeres</key>
+		<array>
+			<string>Сыр</string>
+			<string>Яйца</string>
+			<string>Багет</string>
+			<string>Ветчину</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Яйца</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Как зовут известную американскую певицу, автора хита «Bad Guy»?</string>
+		<key>answeres</key>
+		<array>
+			<string>Бенни Айриш</string>
+			<string>Питти Бейлиш</string>
+			<string>Билли Айлиш</string>
+			<string>Санни Бритиш</string>
+		</array>
+		<key>correctAnswer</key>
+		<string>Билли Айлиш</string>
+		<key>questionLevel</key>
+		<string>easy</string>
+	</dict>
+</array>
+</plist>
