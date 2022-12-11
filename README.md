@@ -1,22 +1,22 @@
 # Who-want-to-be-a-millionaire-
 
-## Приложение написанное без использования storyboards. Вся верстка была выполнена кодом c использованием архитектуры MVC.
+## An application written without using storyboards. The entire layout was done by code using the MVC architecture.
 
-### Версия iOS: 14+
-### Стэк: UIKit,MVC.
+### Version iOS: 14+
+### Stack: UIKit,MVC.
 
 
-### У приложения четыре экрана:
+### The app has four screens:
 
-**экран начальный**: на экране с фирменной заставкой и музыкой расположены две кнопки: начать игру ,которая перекидывает игрока на экран уровней и кнопка правила  ,которая отправляет игрока на экран с правилами игры
+**initial screen**: there are two buttons on the screen with a branded screensaver and music: start the game, which throws the player to the level screen and the rules button, which sends the player to the screen with the rules of the game
 
-**экран правила**: правила игры с наложенной музыкой
+**rules screen**: rules of the game with superimposed music
 
-**экран уровней**: отслеживает успехи игрока по прохождению игры и статус подсказок,экран реализован с использованием ```CustomView``` и ```UITableView```
+**level screen**: tracks the player's progress through the game and the status of hints,the screen is implemented using ``CustomView`` and ``UITableView``
 
-**экран игры**: с полной функциональностью подсказок, отображения правильного или не правильного ответа
+**game screen**: with full functionality of hints, displaying correct or incorrect answer
 
-### Демонстрация работы экранов и работы приложения:
+### Demonstration of the operation of screens and the operation of the application:
 
 <img width="229" alt="1" src="https://user-images.githubusercontent.com/110721351/202409291-9edf65fe-c7e4-4064-873e-af7b1c8b9956.png"> <img width="230" alt="2" src="https://user-images.githubusercontent.com/110721351/202409325-69f4d522-ef75-4e06-8ac2-7ed03a8d3b90.png">
 <img width="230" alt="4" src="https://user-images.githubusercontent.com/110721351/202409453-5a56a662-a837-4490-8944-4d13f0a79916.png">
@@ -24,9 +24,9 @@
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-11-17 at 13 38 46](https://user-images.githubusercontent.com/110721351/202414378-cef9fc7e-bf89-40dc-a187-7133fc3beada.gif)
 
-#### В создании приложения участвовали 5 разработчиков:
+#### 5 developers participated in the creation of the application:
 [Olga-Maksimova](https://github.com/Olga-Maksimova), [wildwoodB](https://github.com/wildwoodB), [Qewhouse](https://github.com/Qewhouse), 
-[richboy13](https://github.com/richboy13).В командной работе и коммуникации использовали инструменты: Slack,Trello,Fork,GitHub.
+[richboy13](https://github.com/richboy13).In teamwork and communication, we used tools: Slack,Trello,Fork,GitHub.
 
 
 
