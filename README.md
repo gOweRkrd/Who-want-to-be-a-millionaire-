@@ -20,7 +20,9 @@
 
 ![Simulator Screen Recording - iPhone 14 Pro - 2022-11-17 at 13 38 46](https://user-images.githubusercontent.com/110721351/202414378-cef9fc7e-bf89-40dc-a187-7133fc3beada.gif)
 
-#### В создании приложения участвовали 5 начинающих разработчиков.В командной работе и коммуникации использовали инструменты: Slack,Trello,Fork,GitHub.
+#### В создании приложения участвовали 5 начинающих разработчиков:### Contributors: 
+[Olga-Maksimova](https://github.com/Olga-Maksimova), [wildwoodB](https://github.com/wildwoodB), [Qewhouse](https://github.com/Qewhouse), 
+[richboy13](https://github.com/richboy13).В командной работе и коммуникации использовали инструменты: Slack,Trello,Fork,GitHub.
 
 
 
