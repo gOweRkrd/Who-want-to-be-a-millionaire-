@@ -2,7 +2,11 @@
 
 ## An application written without using storyboards. The entire layout was done by code using the MVC architecture.
 
+
+### The meaning of the game : adaptation of a popular television program .
+
 ### Version iOS: 14+
+
 ### Stack: UIKit,MVC.
 
 
