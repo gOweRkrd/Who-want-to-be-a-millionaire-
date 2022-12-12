@@ -2,7 +2,7 @@
 
 ## An application written without using storyboards. The entire layout was done by code using the MVC architecture.
 
-**Meaning** : adaptation of a popular television program .
+**Meaning project** : adaptation of a popular television program .
 
 **Version iOS** : 14+
 
