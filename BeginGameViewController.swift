@@ -6,13 +6,9 @@ class BeginGameViewController: UIViewController {
     
     
     let music = MusicModel()
-    
-    
-    
+
     var ololoHandler: (([ HelperButton : Bool ]) -> Void)?
-    
-    //Все свойства должны быть в одном месте и упрядочены. Свойства, которые не должны быть доступны на других экранах - должны быть private. UI-объекты должны быть private lazy var (инициализация объектов происходит тогда, когда мы к ним обращаемся, а не храняться в памяти приложения с момента запуска)
-    
+   
     var newGameRound : NewGameRound
     
     var helpers: [ HelperButton : Bool ] {
@@ -62,21 +58,13 @@ class BeginGameViewController: UIViewController {
     lazy var color2 = #colorLiteral(red: 0.8352941176, green: 0.6705882353, blue: 0, alpha: 1)
     lazy var color3 = #colorLiteral(red: 0.9098039269, green: 0.4784313738, blue: 0.6431372762, alpha: 0.4570478225)
     lazy var color4 = #colorLiteral(red: 0.1497105928, green: 0.6043053612, blue: 0.7280215983, alpha: 0.6094313868)
-    
-    
-    
-    //Я не просто так убрала это свойство из кода. Я не ошаблась. Зачем ты переписал логику и вернул эту хрень?!
+   
     lazy var mistake = false
-    
-    
-    
+  
     lazy var answers = newGameRound.roundData.question.answeres
     lazy var currentAnswer = newGameRound.roundData.question.correctAnswer
     lazy var buttonArray = [firstAnswerButton, secondAnswerButton, thirtAnswerButton, fourAnswerButton]
     lazy var roundTime = Int(newGameRound.roundDuration)
-    
-    
-    
     
     let queshionsLabel: UILabel = {
         let label = UILabel()
