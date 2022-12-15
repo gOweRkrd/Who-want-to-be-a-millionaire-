@@ -25,7 +25,7 @@
 <img width="230" alt="4" src="https://user-images.githubusercontent.com/110721351/202409453-5a56a662-a837-4490-8944-4d13f0a79916.png">
 <img width="230" alt="5" src="https://user-images.githubusercontent.com/110721351/202409785-11a43d94-6615-4726-8196-ec132632f94d.png">
 
-![Simulator Screen Recording - iPhone 14 Pro - 2022-11-17 at 13 38 46](https://user-images.githubusercontent.com/110721351/202414378-cef9fc7e-bf89-40dc-a187-7133fc3beada.gif)
+<img width="230" src="https://user-images.githubusercontent.com/110721351/202414378-cef9fc7e-bf89-40dc-a187-7133fc3beada.gif">
 
 #### 5 developers participated in the creation of the application:
 [Olga-Maksimova](https://github.com/Olga-Maksimova), [wildwoodB](https://github.com/wildwoodB), [Qewhouse](https://github.com/Qewhouse), 
